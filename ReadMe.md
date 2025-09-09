@@ -2,7 +2,7 @@ Mail Merge Tool for Microsoft Outlook
 =====================================
 
 Version: 3.6 (2025-09-05)
-Author: AI Assistant (Purple) / Brian Danford (Danford@uw.edu)
+Author: AI Assistant (Purple)
 
 A robust Python script for creating personalized Outlook email drafts using CSV contact list and Markdown templates.
 
